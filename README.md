@@ -1,1 +1,2 @@
-Homework Week 1
+Linear Regression basis implementation 
+MSE - MAE loss
